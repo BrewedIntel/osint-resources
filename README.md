@@ -132,6 +132,11 @@ Checks if email accounts appear in known data breaches.
 https://dehashed.com  
 Searchable breach, credential, and dark web database.
 
+### **Hudson Rock**
+https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+
+Check if a specific asset was compromised in a global Infostealer malware attack.
+
 ---
 
 ## People Search, Public Records & Legal OSINT
