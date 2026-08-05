@@ -40,6 +40,10 @@ Excellent for face and object recognition, especially outside the U.S.
 https://pixlr.com/x  
 Browser-based photo editing for annotation and cleanup during investigations.
 
+### **ChronoVerify**  
+https://chronoverify.com  
+Validates C2PA Content Credentials against the official trust lists, plus EXIF/XMP metadata and pixel forensics. Free web verifier and API.
+
 ---
 
 ## Username & Identity Enumeration
