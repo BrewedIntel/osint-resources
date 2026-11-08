@@ -136,6 +136,10 @@ Searchable breach, credential, and dark web database.
 
 ## People Search, Public Records & Legal OSINT
 
+### **DeepSearch**  
+https://deepsearch.tools/  
+Name-based people search with free candidate-list previews; full reports are paid. Verify potential matches against original sources.
+
 ### **Legacy.com**  
 https://www.legacy.com  
 Obituaries, useful for skip tracing and family linkages.
