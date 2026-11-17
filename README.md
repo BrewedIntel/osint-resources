@@ -196,6 +196,10 @@ Professional footprint, employment history, and relationship mapping.
 https://www.steamidfinder.com  
 Gaming identity lookups, profile connections, and SteamOSINT.
 
+### **SnapDataHub**  
+https://snapdatahub.com  
+Public Snapchat creator stats and Spotlight view benchmarks by creator size and niche.
+
 ---
 
 ## Open Data, Sanctions & Financial OSINT
