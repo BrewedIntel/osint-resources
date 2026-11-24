@@ -120,6 +120,10 @@ WiFi network geolocation data for tracking wireless networks.
 https://overpass-turbo.eu / https://www.openstreetmap.org  
 Open-source mapping for location analysis and infrastructure search.
 
+### **H1DR4 Public Incident Map**
+https://h1dr4.dev/map
+Free public viewer for exploring reported incidents by area and checking source information. Police.uk locations are approximate, and coverage varies by force.
+
 ---
 
 ## Breach & Credential Intelligence
